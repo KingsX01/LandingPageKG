@@ -9,7 +9,7 @@
 
 body {
   font-size: 100%;
-  background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
+  background: linear-gradient(68.15deg, #aa02f8 16.62%, #153488 85.61%);
 }
 
 .cabecalho {
@@ -17,11 +17,11 @@ body {
   flex-direction: row;
   align-items: center;
   justify-content: space-around;
-  padding: 24px;
+  padding: 2px;
 }
 
 .cabecalho-imagem {
-  height: 72px;
+  height: 85px;
 }
 
 .cabecalho-menu {
@@ -69,7 +69,7 @@ body {
 }
 
 .conteudo-principal-escrito-botao {
-  background-color: #ECD6C4;
+  background-color: #fafafa;
   width: 180px;
   height: 60px;
   border: none;
@@ -86,7 +86,7 @@ body {
 }
 
 .conteudo-principal-imagem {
-  height: 430px;
+  height: 400px;
 }
 
 .conteudo-secundario {
@@ -120,7 +120,7 @@ body {
 }
 
 .rodape-imagem {
-  height: 48px;
+  height: 170px;
   display: block;
   margin: 0 auto;
 }
